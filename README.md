@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on [Github](https://github.com/AbrahimZaman360)  
   
 
-- 🌱 I’m learning Advance dotNET.  
+- 🌱 I’m learning Advanced dotNET.  
   
 
 - ❓ Ask me about anything related to Python, C#, C++ and a bit of JS.  
