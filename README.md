@@ -4,22 +4,19 @@
 - 🔭 I’m currently working on [Github](https://github.com/AbrahimZaman360)  
   
 
-- 🌱 I’m learning Advance Next.JS Framework.  
+- 🌱 I’m learning Advance dotNET.  
   
 
-- ❓ Ask me about anything related to Python, Node and C++.  
+- ❓ Ask me about anything related to Python, C#, C++ and a bit of JS.  
   
 
-- ⚡ Fun fact: I use stackoverflow very less.  
+- ⚡ Fun fact: I use stackoverflow very less that at least one tab opened Everytime..  
   
 
 <br/>  
 
-
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="center">  
