@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on [Github](https://github.com/AbrahimZaman360)  
   
 
-- 🌱 I’m learning Advanced dotNET.  
+- 🌱 I’m learning Advanced Stuff to Upgrade Power of 0 n 1.  
   
 
 - ❓ Ask me about anything related to Python, C#, C++ and a bit of JS.  
