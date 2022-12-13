@@ -80,7 +80,7 @@
 <img src=https://img.shields.io/badge/dribbble-%23E45285.svg?&style=for-the-badge&logo=dribbble&logoColor=white alt=dribbble style="margin-bottom: 5px;" />
 </a>  
 <a href="https://linkedin.com/in/abrahimzaman360" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%23E45285.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/linkedin-%2300acee.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
   
