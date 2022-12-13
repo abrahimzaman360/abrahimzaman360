@@ -1,4 +1,4 @@
-### <div align="center">I'm Abrahim Zaman and I'm a Open-Source Self Taught Developer.</div>  
+### <div align="center">Hi, I'm Ibrahim Zaman - Pro. OSS Developer.</div>  
   
 
 - 🔭 I’m currently working on [Github](https://github.com/AbrahimZaman360)  
