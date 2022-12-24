@@ -1,7 +1,7 @@
 ### <div align="center">Hi, I'm Ibrahim Zaman - Pro. OSS Developer.</div>  
   
 
-- 🔭 I’m currently working on [Github](https://github.com/AbrahimZaman360)  
+- 🔭 I’m currently working on [Ibrahim Zaman](https://github.com/AbrahimZaman360)  
   
 
 - 🌱 I’m learning Advanced Stuff to Upgrade Power of 0 n 1.  
@@ -15,10 +15,10 @@
 
 <br/>  
 
-## My Skill Set  
+## Skills
 <table><tr><td valign="top" width="33%">
 
-### Frontend  
+### Some Frontend  
 <div align="center">    
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
@@ -42,7 +42,7 @@
 
 
 
-### Backend  
+### Some Backend  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
@@ -89,10 +89,11 @@
 
 
 ## Github Stats  
+### Latest Status of Ibrahim Zaman aka Mr Vitamin (@AbrahimZaman360):
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AbrahimZaman360&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
+<br/>
+&
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbrahimZaman360&theme=tokyonight" alt="mystreak"/>
 
 ## Recent Blog Posts  
 
