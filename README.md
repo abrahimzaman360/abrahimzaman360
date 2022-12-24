@@ -92,8 +92,10 @@
 ### Latest Status of Ibrahim Zaman aka Mr Vitamin (@AbrahimZaman360):
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AbrahimZaman360&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 <br/>
-&
+### Updated Widget:
+<div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbrahimZaman360&theme=tokyonight" alt="mystreak"/>
+  </div>
 
 ## Recent Blog Posts  
 
