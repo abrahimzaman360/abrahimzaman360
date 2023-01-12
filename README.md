@@ -7,7 +7,7 @@
 - 🌱 I’m learning Advanced Stuff to Upgrade Power of 0 n 1.  
   
 
-- ❓ Ask me about anything related to Python, C#, C++ and a bit of JS.  
+- ❓ Ask me about anything related to Python, C#, C++ and a bit of JS, PHP and Bash.  
   
 
 - ⚡ Fun fact: I use stackoverflow very less that at least one tab opened Everytime..  
@@ -90,7 +90,6 @@
 
 ## Github Stats  
 ### Latest Status of Ibrahim Zaman aka Mr Vitamin (@AbrahimZaman360):
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AbrahimZaman360&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 <br/>
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbrahimZaman360&theme=tokyonight" alt="mystreak"/>
