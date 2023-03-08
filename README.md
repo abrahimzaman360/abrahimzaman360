@@ -7,7 +7,7 @@
 - 🌱 I’m learning Advanced Stuff to Upgrade Power of 0 n 1.  
   
 
-- ❓ Ask me about anything related to Python, C#, C++ and a bit of JS, PHP and Bash.  
+- ❓ Ask me about anything related to JavaScript, Python, C++, PHP and Bash.  
   
 
 - ⚡ Fun fact: I use stackoverflow very less that at least one tab opened Everytime..  
