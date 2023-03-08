@@ -1,7 +1,7 @@
-### <div align="center">Hi, I'm Ibrahim Zaman - Pro. OSS Developer.</div>  
+### <div align="center">Hi, I'm Ibrahim Zaman - OSS Developer.</div>  
   
 
-- 🔭 I’m currently working on [Ibrahim Zaman](https://github.com/AbrahimZaman360)  
+- 🔭 I’m currently working on [Ibrahim Zaman](https://github.com/abrahimzaman360)  
   
 
 - 🌱 I’m learning Advanced Stuff to Upgrade Power of 0 n 1.  
