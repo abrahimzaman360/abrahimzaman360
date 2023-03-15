@@ -93,7 +93,7 @@
 <br/>
 <div style="
             display: flex;
-            flex-direction: row;
+            flex-direction: column;
             justify-content: center;
             " align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbrahimZaman360&theme=tokyonight" alt="mystreak"/>
