@@ -91,7 +91,11 @@
 ## Github Stats  
 ### Latest Status of Ibrahim Zaman aka Mr Vitamin (@AbrahimZaman360):
 <br/>
-<div align="center">
+<div style="
+            display: flex;
+            flex-direction: row;
+            justify-content: center;
+            " align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbrahimZaman360&theme=tokyonight" alt="mystreak"/>
   <br/>
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=abrahimzaman360&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
