@@ -10,7 +10,11 @@
 - ❓ Ask me about anything related to JavaScript, Python, C++, PHP and Bash.  
   
 
-- ⚡ Fun fact: I use stackoverflow very less that at least one tab opened Everytime..  
+- ⚡ Fun fact: I use stackoverflow very less that at least one tab opened Everytime.
+ 
+- 🤩 Gaming: Xonotic Pro Player!
+     Statistics:
+     https://stats.xonotic.org/player/305209
  
 <br/>  
 <div align="center">
