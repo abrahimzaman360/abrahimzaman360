@@ -18,7 +18,7 @@
  
 <br/>  
 <div align="center">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=abrahimzaman360&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abrahimzaman360" alt="abrahimzaman360" /></a> </p>
 </div>
 ## Skills
 <table><tr><td valign="top" width="33%">
