@@ -15,7 +15,7 @@
 - 🤩 Gaming: Xonotic Pro Player!
      Statistics:
      https://stats.xonotic.org/player/305209
-- Follow Me On New Meta Threads App: abrahimzaman360
+- Follow Me On New Meta Threads App (@): https://www.threads.net/abrahimzaman360
  
 <br/>  
 <div align="center">
