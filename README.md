@@ -98,7 +98,7 @@
 
 
 ## Github Stats  
-### Latest Status of Ibrahim Zaman aka Mr Vitamin (@AbrahimZaman360):
+### Latest Status of Ibrahim Zaman aka Mr Tux (@AbrahimZaman360):
 <br/>
 <div style="
             display: flex;
