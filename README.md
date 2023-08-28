@@ -1,9 +1,11 @@
-### <div align="center">Hi, I'm Ibrahim Zaman - OSS Developer.</div>  
+### <div align="center">Hi, I'm Ibrahim Zaman aka Mr Tux.</div>  
   
 
-- 🔭 I’m currently working on [Ibrahim Zaman](https://github.com/abrahimzaman360)  
-  
+- 🔭 I’m currently working on a Private Project (:
 
+-  I live here: [Ibrahim Zaman](https://github.com/abrahimzaman360)  
+  
+  
 - 🌱 I’m learning Advanced Stuff to Upgrade Power of 0 n 1.  
   
 
