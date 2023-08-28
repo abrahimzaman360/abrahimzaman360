@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a Private Project (:
 
--  I live here: [Ibrahim Zaman](https://github.com/abrahimzaman360)  
+- 😁 I live here: [Ibrahim Zaman](https://github.com/abrahimzaman360)  
   
   
 - 🌱 I’m learning Advanced Stuff to Upgrade Power of 0 n 1.  
