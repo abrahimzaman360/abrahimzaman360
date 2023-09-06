@@ -9,7 +9,7 @@
 - 🌱 I’m learning Advanced Stuff to Upgrade Power of 0 n 1.  
   
 
-- ❓ Ask me about anything related to JavaScript, Python, C++, PHP and Bash.  
+- ❓ Ask me about anything related to Rust, TypeScript and Many More...
   
 
 - ⚡ Fun fact: I use stackoverflow very less that at least one tab opened Everytime.
