@@ -11,5 +11,6 @@
     - [Email](mailto:abrahimzaman3@gmail.com)
     - [LinkedIn](https://linkedin.com/in/abrahimzaman360)
     - [Instagram](https://instagram.com/abrahimzaman360)
-    - [Wall of Love](https://walloflove.social)
+- What I'm building:
+  - Coming Soon: [Wall of Love](https://walloflove.social)
 
