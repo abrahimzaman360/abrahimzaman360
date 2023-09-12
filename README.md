@@ -14,8 +14,10 @@
     - [Instagram](https://instagram.com/abrahimzaman360)
     
 - What I'm building:
-  - Under Dev [Commercial]: [Saffy](saffy.ai)
-  - Coming Soon: [Wall of Love](https://walloflove.social)
+  - Under Dev:
+      - [Commercial]: [Saffy](saffy.ai)
+  - Coming Soon:
+      - [Wall of Love](https://walloflove.social)
  
 - Fav.
   - [Bun Runtime](https://bun.sh)
