@@ -15,7 +15,7 @@
     
 - What I'm building:
   - Under Dev:  
-      - [Go Saffy](https://saffy.ai)
+      - [GoSaffy](https://saffy.ai)
   - Coming Soon:  
       - [Wall of Love](https://walloflove.social)
  
