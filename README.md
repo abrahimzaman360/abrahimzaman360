@@ -3,9 +3,12 @@
 - "I know how to run a machine".
 
 - What I use:
+    - [Markdown](www.markdownguide.org).
+    - [C++](www.markdownguide.org).
     - [Rust](https://www.rust-lang.org/).
     - [TypeScript](https://www.typescriptlang.org/).
     - [Kotlin](https://kotlinlang.org/).
+    - [Docker](www.docker.com).
  
 - Web Pages:
     - [Ibrahim Zaman](https://abrahimzaman.com)
