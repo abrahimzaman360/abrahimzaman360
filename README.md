@@ -1,6 +1,6 @@
 ## Hi, I'm Ibrahim Zaman aka Mr Tux.
 
-- "I know how to center a div and \'hello world\' a machine".
+- "I know how to center a div and print \'hello world\' on a machine".
 
 - What I use:
     - [Markdown/MDX - High](www.markdownguide.org).
