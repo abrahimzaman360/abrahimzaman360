@@ -1,6 +1,6 @@
 ## Hi, I'm Ibrahim Zaman aka Mr Tux.
 
-- "I know how to run a machine".
+- "I know how to center a div and \'hello world\' a machine".
 
 - What I use:
     - [Markdown/MDX - High](www.markdownguide.org).
