@@ -6,7 +6,7 @@
     - [Markdown/MDX - High](www.markdownguide.org).
     - [JavaScript/TypeScript - High](https://www.typescriptlang.org/).
     - [Docker - Mid](www.docker.com).
-    - [Python High](https://python.org).
+    - [Python - High](https://python.org).
     - [C/C++ - Mid](www.markdownguide.org).
     - [Rust - Beginner](https://www.rust-lang.org/).
  
