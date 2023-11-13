@@ -20,8 +20,7 @@
     - [Instagram](https://instagram.com/abrahimzaman360)
     
 - What I'm building:
-  - Under Construction:  
-      - [GoSaffy](https://saffy.ai).
+  - Under Construction:
       - [Wall of Love](https://walloflove.social)
  
 - Fav.
