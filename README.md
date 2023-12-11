@@ -8,9 +8,11 @@
     - [DevOps - Mid](www.docker.com).
     - [Python - High](https://python.org).
     - [C/C++ - Mid](www.markdownguide.org).
+    - YAML
+    - .dot
 - Interests:
     - Large Language Models (LLMs).
-    - Human Brain x AI Interfaces.
+    - Human Brain x AI Interfaces
  
 - Web Pages:
     - [Ibrahim Zaman](https://abrahimzaman.com)
