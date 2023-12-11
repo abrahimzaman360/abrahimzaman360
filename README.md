@@ -24,6 +24,8 @@
       - [Wall of Love](https://walloflove.social)
  
 - Fav.
-  - [Qwik](https://qwik.builder.io/)
-  - [Bun Runtime](https://bun.sh)
+  - [Local Stack]
+  - [Docker, Kubernetes]
+  - [AWS]
+  - [Bun](https://bun.sh)
 
