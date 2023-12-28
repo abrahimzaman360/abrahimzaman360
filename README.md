@@ -26,7 +26,6 @@
       - [Wall of Love](https://walloflove.social)
  
 - Fav.
-  - [Local Stack]
   - [Docker, Kubernetes]
   - [AWS]
   - [Bun](https://bun.sh)
