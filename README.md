@@ -15,7 +15,7 @@
     - Human Brain x AI Interfaces
  
 - Web Pages:
-    - [Ibrahim Zaman](https://abrahimzaman.com)
+    - [Ibrahim Zaman](https://mrtux.one)
     - [Link in Bio](https://tiles.bio/abrahimzaman360)
     - [Email](mailto:abrahimzaman3@gmail.com)
     - [LinkedIn](https://linkedin.com/in/abrahimzaman360)
