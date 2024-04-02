@@ -5,9 +5,10 @@
 - What I use:
     - [Markdown/MDX - High](www.markdownguide.org).
     - [TypeScript - Mid](https://www.typescriptlang.org/).
-    - [DevOps - Mid](www.docker.com).
+    - [Rust - Learning](https://rust-lang.org)
+    - [DevOps - Mid](https://docker.com).
     - [Python - High](https://python.org).
-    - [C/C++ - Mid](www.markdownguide.org).
+    - [C/C++ - High](https://isocpp.org).
     - YAML
     - .dot
 - Interests:
