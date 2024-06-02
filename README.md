@@ -16,7 +16,7 @@
 - Interests:
     - Large Language Models (LLMs).
     - AI and Machine Learning.
-    - Neural Interfaces (BCI)
+    - Brain-Computer Interface (BCI)
     - Game Development with Unreal Engine.
     - Cycling, Art and Design.
  
