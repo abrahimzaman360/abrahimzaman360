@@ -9,7 +9,7 @@
     - [Docker and Kubernetes](https://docker.com).
     - [Python](https://python.org).
     - [MageAI for Task Schedule](https://mage.ai).
-    - YAML for Configurations
+    - YAML for Configurations.
     - .env
       
 - Interests:
