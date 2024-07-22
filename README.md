@@ -1,4 +1,4 @@
-## Hi, I'm Ibrahim Zaman aka Mr Tux.
+## Hi, I'm Ibrahim Zaman (Mr Tux)
 
 - "I know, how to center a div and print \'hello world\' on a machine".
 
