@@ -5,10 +5,10 @@
 - What I use:
     - [Markdown/MDX](www.markdownguide.org).
     - [TypeScript](https://www.typescriptlang.org/).
-    - [Rust](https://rust-lang.org)
+    - [Rust](https://rust-lang.org).
     - [Docker and Kubernetes](https://docker.com).
     - [Python](https://python.org).
-    - [MageAI for Task Schedule](https://mage.ai)
+    - [MageAI for Task Schedule](https://mage.ai).
     - YAML for Configurations
     - .env
       
