@@ -4,21 +4,22 @@
 
 - What I use:
     - [Markdown/MDX](www.markdownguide.org).
-    - [TypeScript for NextJS](https://www.typescriptlang.org/).
-    - [Rust - Learning](https://rust-lang.org)
-    - [DevOps - Learning](https://docker.com).
+    - [TypeScript](https://www.typescriptlang.org/).
+    - [Rust](https://rust-lang.org)
+    - [Docker and Kubernetes](https://docker.com).
     - [Python](https://python.org).
-    - [C/C++](https://isocpp.org).
-    - [Unreal Engine for Game Dev - Learning](https://unrealengine.com)
+    - [MageAI for Task Schedule](https://mage.ai)
     - YAML for Configurations
     - .env
       
 - Interests:
     - Large Language Models (LLMs).
     - AI and Machine Learning.
-    - Brain-Computer Interface (BCI)
-    - Game Development with Unreal Engine.
+    - Brain-Computer Interface (BCI).
+    - Mathematics, Science!
+    - Startups.
     - Cycling, Art and Design.
+    - Open discussions to any topic!
  
 - Web Links:
     - [Ibrahim Zaman](https://mrtux.one)
