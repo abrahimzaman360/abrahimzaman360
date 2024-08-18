@@ -1,13 +1,14 @@
 ## Hi, I'm Ibrahim Zaman (aka Mr Tux)
 
-- What can I do: "I know, how to center a div and print \'hello world\' on a machine".
+What can I do: 
+- "I know, how to center a div and print \'hello world\' on a machine".
 
 What I do:
-- Working on "Figent AI - AI Agents for Everyone".
-- Independent Data Engineer!
+- Building: "Figent AI - AI Agents for Everyone" => a project by Dragon AI Lab.
+- Independent developer & Data engineer
 - Full-time at DoAZ AI till 15 September 2024.
 
-- What I use:
+- What I use (tech stack):
     - [Markdown/MDX](www.markdownguide.org).
     - [TypeScript](https://www.typescriptlang.org/).
     - [Rust](https://rust-lang.org).
@@ -17,7 +18,7 @@ What I do:
     - YAML for Configurations.
     - .env
       
-- Interests:
+- My interests:
     - Large Language Models (LLMs).
     - AI and Machine Learning.
     - Brain-Computer Interface (BCI).
@@ -27,7 +28,7 @@ What I do:
     - Cycling, Art and Design.
     - Open discussions to any topic!
  
-- Web Links:
+- Web links:
     - [Ibrahim Zaman](https://mrtux.one)
     - [Link in Bio](https://tiles.bio/abrahimzaman360)
     - [Email](mailto:abrahimzaman3@gmail.com)
