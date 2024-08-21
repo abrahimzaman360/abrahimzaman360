@@ -1,7 +1,7 @@
 ## Hi, I'm Ibrahim Zaman (aka Mr Tux)
 
 ### What I do:
-    - Building: "Figent AI - AI Agents for Everyone" => a project by Dragon AI Lab.
+    - Building: "Figent AI" => a project by Dragon AI Lab.
     - Independent developer & Data engineer
     - Full-time at DoAZ AI till 15 September 2024.
 
