@@ -22,7 +22,7 @@
     - Mathematics, Science!
     - Startups.
     - Cycling, Art and Design.
-    - Open discussions to any topic!
+    - Open discussions on any topic!
  
 ### Web links:
     - [Ibrahim Zaman](https://mrtux.one)
