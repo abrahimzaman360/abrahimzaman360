@@ -1,8 +1,7 @@
 ## Hi, I'm Ibrahim Zaman (aka Mr Tux)
 
 ### What I do:
-    - Independent developer & Data engineer
-    - Founder at Dragon AI Lab.
+    - Previously, Software Engineer at DoAZ AI
     
 ### What I use (tech stack):
     - [Markdown/MDX](www.markdownguide.org).
