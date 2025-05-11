@@ -1,4 +1,4 @@
-## Hi (AoA), I'm Ibrahim Zaman (Super Metallic)
+## Ibrahim Zaman
 
 ### What I do:
     - Data & Software Engineering. 
@@ -7,18 +7,18 @@
 ### Experience:
     - Previously, Software Engineer at DoAZ AI
     
-### What I use (tech stack):
+### What I use (Tech Stack):
     - [Markdown/MDX](www.markdownguide.org).
     - [Docker and Kubernetes](https://docker.com).
     - [Python](https://python.org).
-    - Spark, Databricks.
-    - Cloud (aws, azure, gcp etc)
+    - Spark, Databricks, Kafka, Flink, SQLMesh, RisingWaves, etc...
+    - Cloud (aws, azure, gcp, etc)
     - .env
     ~ Sometimes:
         - Web development.
         - Rust.
 
-### My github status
+### My Github status
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=46282325" target="_blank" style="display: block" align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=46282325&image_size=auto&color_scheme=dark" width="771" height="auto">
