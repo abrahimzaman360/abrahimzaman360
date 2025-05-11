@@ -29,17 +29,16 @@
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
       
 ### My interests:
-    - My self.
-    - Large Language Models (LLMs).
+    - Myself.
+    - Data Engineering, SQLTHONIC (SQL and Python)
     - AI and Machine Learning.
     - Brain-Computer Interface (BCIs).
-    - Linux and Distro (Ubuntu Fav)
+    - Linux but Distros (Ubuntu Fav).
     - Mathematics, Science!
-    - Startups.
+    - Startups!
     - Cycling, Art and Design.
-    - Open discussions on any topic!
-    - My She (SJ)
- 
+    - Open discussion on any topic!
+
 ### Web links:
     - [Web Link](https://tiles.bio/abrahimzaman360)
     - [Email](mailto:abrahimzaman3@gmail.com)
