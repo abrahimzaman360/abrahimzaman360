@@ -9,14 +9,12 @@
     
 ### What I use (Tech Stack):
     - [Markdown/MDX](www.markdownguide.org).
-    - [Docker and Kubernetes](https://docker.com).
-    - [Python](https://python.org).
-    - Spark, Databricks, Kafka, Flink, SQLMesh, RisingWaves, etc...
-    - Cloud (aws, azure, gcp, etc)
+    - Docker, Kubernetes, Terraform, Ansible.
+    - MS Office, SQL, Python, Rust & JVM.
+    - Cloud (aws, azure)
     - .env
     ~ Sometimes:
         - Web development.
-        - Rust.
 
 ### My Github status
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=46282325" target="_blank" style="display: block" align="center">
