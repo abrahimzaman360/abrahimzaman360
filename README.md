@@ -1,4 +1,8 @@
-## Ibrahim Zaman
+## Ibrahim Zaman (Account Deprecation Warning)
+
+Note:
+This account is now read-only for the public.
+The person behind this account has passed away (RIP).
 
 ### What I do:
     - Data & Software Engineering. 
