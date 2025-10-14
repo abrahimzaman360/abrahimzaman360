@@ -4,7 +4,7 @@ Note:
 This account is now read-only for the public.
 
 ### What I do:
-    - Data & Software Engineering. 
+    - Software Engineering. 
     - Lifelong learning.
     
 ### Experience:
@@ -26,8 +26,6 @@ This account is now read-only for the public.
     <img alt="Dashboard stats of @abrahimzaman360" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=46282325&image_size=auto&color_scheme=light" width="771" height="auto">
   </picture>
 </a>
-
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
       
 ### My interests:
     - Myself.
