@@ -2,14 +2,13 @@
 
 Note:
 This account is now read-only for the public.
-The person behind this account has passed away (RIP).
 
 ### What I do:
     - Data & Software Engineering. 
     - Lifelong learning.
     
 ### Experience:
-    - Previously, Software Engineer at DoAZ AI
+    - Prev, Software Engineer at DoAZ AI
     
 ### What I use (Tech Stack):
     - [Markdown/MDX](www.markdownguide.org).
